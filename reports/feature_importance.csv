@@ -1,0 +1,9 @@
+feature,mean_abs_shap
+momentum_90d,0.22437754
+rolling_252d_return,0.20647357
+rolling_volatility,0.16677003
+beta,0.1415743
+rolling_sharpe,0.14057744
+information_ratio,0.13851519
+alpha,0.11444752
+expense_gap,0.0
