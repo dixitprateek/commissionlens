@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/raw/
+data/processed/
+
+# External benchmark data
+data/external/
+
+# Models
+models/
+*.pkl
+
+# Reports
+reports/*.png
+reports/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
