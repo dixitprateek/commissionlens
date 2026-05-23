@@ -158,19 +158,6 @@ were more likely to justify higher expense ratios.
 
 ---
 
-# SIP Backtesting
-
-A simplified SIP backtesting framework was implemented to compare:
-
-## Strategy A
-Naive investing across all regular funds
-
-vs
-
-## Strategy B
-Investing only in funds selected by the ML model
-
-## Result
 
 The ML-selected portfolio marginally outperformed the baseline portfolio, demonstrating evidence of predictive signal in commission-adjusted fund selection.
 
