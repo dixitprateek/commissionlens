@@ -131,6 +131,9 @@ This is financially meaningful because investors care most about identifying the
 
 SHAP analysis was used to explain feature contributions and identify the most important drivers of commission justification.
 
+## SHAP Summary Plot
+
+![SHAP Summary](reports/shap_summary_plot.png)
 ## Top Predictive Features
 
 | Rank | Feature |
